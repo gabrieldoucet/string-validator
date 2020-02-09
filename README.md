@@ -1,3 +1,3 @@
 # string-validator
 
-Simple Java project to validate combinations of () and [], such as [((()[])[])]
+Simple Java project to parse and validate combinations of () and [], such as [((()[])[])]
